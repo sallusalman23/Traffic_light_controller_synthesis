@@ -45,12 +45,14 @@ The Liberty files are present in the library path,
 
 **Area report:**
 
-![Screenshot 2024-11-16 163430](https://github.com/user-attachments/assets/9ade2121-5ade-42c5-8320-b785d15b57fb)
+![WhatsApp Image 2024-11-24 at 10 39 22_ada41cbc](https://github.com/user-attachments/assets/60cf3ee3-9401-400a-b857-7a11833dcec7)
+
 
 
 **Power Report:**
 
-![Screenshot 2024-11-16 163536](https://github.com/user-attachments/assets/9eff52de-a7cc-4488-bb21-2bf0b30dc2f9)
+![WhatsApp Image 2024-11-24 at 10 39 22_b6d39125](https://github.com/user-attachments/assets/9bbe091b-2c92-426f-9913-9893eeb1a8f1)
+
 
 **Result:**
 
